@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Olá, seja bem vindo 👋
+Todos os códigos são de livre uso, desde que cite a fonte.
 <!--
 **victorear05/victorear05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
