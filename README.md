@@ -28,5 +28,8 @@
  <a href="https://www.twitch.tv/victor_dudu_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   
 ![Snake animation](https://github.com/victorear05/victorear05/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+
+ </div>
+  
+![Jokes Card](https://readme-jokes.vercel.app/api)  
+![Profile View Counter](https://komarev.com/ghpvc/?username=victorear05)  
