@@ -1,4 +1,5 @@
-### Hi there👋, I'm Victor Eduardo 
+### Hi there👋
+My name is Victor Eduardo, and I'm a software engineering student at the University of Brasilia
  - 🌱 I'm currently learning Python, JavaScript, React, .NET
  - 🤔 I'm looking for help with JavaScript, .NET
  - 💬 Ask me about C/C++, Java
