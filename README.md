@@ -8,7 +8,6 @@
 - 😄 Pronomes: Ele/dele
 - ⚡ Fato engraçado: Decidi vir pro lado da tecnologia da informação no meio do 3º ano do ensino médio, até então faria Medicina
 
-### ⚙️Stats
 <div align="center">
   <a href="https://github.com/victorear05">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorear05&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
