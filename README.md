@@ -1,4 +1,11 @@
 ### Olá 👋, me chamo Victor Eduardo 
+ - 🌱 Estou aprendendo sobre Python, JavaScript, React, .NET
+ - 🤔 Pocurando ajuda por com JavaScript, .NET
+ - 💬 Pergunte-me sobre C/C++, Java
+ - 📫 Entre em contato através do [LinkedIn](https://www.linkedin.com/in/victorear05/)
+ - 😄 Pronomes: Ele/dele
+ - ⚡ Fato engraçado: Decidi vir pro lado da tecnologia da informação no meio do 3º ano do ensino médio, até então cursaria Medicina
+
 <div align="center">
   <a href="https://github.com/victorear05">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorear05&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
