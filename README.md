@@ -1,10 +1,10 @@
-### Olá 👋, me chamo Victor Eduardo 
- - 🌱 Estou aprendendo sobre Python, JavaScript, React, .NET
- - 🤔 Pocurando ajuda por com JavaScript, .NET
- - 💬 Pergunte-me sobre C/C++, Java
- - 📫 Entre em contato através do [LinkedIn](https://www.linkedin.com/in/victorear05/)
- - 😄 Pronomes: Ele/dele
- - ⚡ Fato engraçado: Decidi vir pro lado da tecnologia da informação no meio do 3º ano do ensino médio, até então cursaria Medicina
+### Hi there👋, I'm Victor Eduardo 
+ - 🌱 I'm currently learning Python, JavaScript, React, .NET
+ - 🤔 I'm looking for help with JavaScript, .NET
+ - 💬 Ask me about C/C++, Java
+ - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/victorear05/)
+ - 😄 Pronouns: He/his
+ - ⚡ Fun fact: I decided to come to the information technology side in the middle of the 3rd year of high school, until then I would study Medicine
 
 <div align="center">
   <a href="https://github.com/victorear05">
