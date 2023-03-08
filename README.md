@@ -5,7 +5,7 @@ My name is Victor Eduardo, and I'm a software engineering student at the Univers
  - 💬 Ask me about C/C++, Java
  - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/victorear05/)
  - 😄 Pronouns: He/his
- - ⚡ Fun fact: I decided to come to the information technology side in the middle of the 3rd year of high school, until then I would study Medicine
+ - ⚡ Fun fact: I decided to come to the information technology side in the middle of the last year of high school, until then I would study Medicine
 
 <div align="center">
   <a href="https://github.com/victorear05">
