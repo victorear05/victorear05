@@ -1,9 +1,9 @@
 ### Hi there👋
 My name is Victor Eduardo, and I'm a software engineering student at the University of Brasilia
- - 🌱 I'm currently learning Python, JavaScript, React, .NET
- - 🤔 I'm looking for help with JavaScript, .NET
- - 💬 Ask me about C/C++, Java
- - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/victorear05/)
+ - 🌱 I'm currently learning Python, JavaScript, React
+ - 🤔 I'm looking for help with C#, .NET
+ - 💬 Ask me about C/C++, Java, Python (a little)
+ - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/-victor-eduardo/)
  - 😄 Pronouns: He/his
  - ⚡ Fun fact: I decided to come to the information technology side in the middle of the last year of high school, until then I would study Medicine
 
